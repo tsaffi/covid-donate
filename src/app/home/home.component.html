@@ -1,0 +1,35 @@
+    <!-- HOME START-->
+    <section class="bg-home" id="home">
+    <!-- <section class="bg-home d-flex align-items-center" style="background:url('assets/images/home/01.jpg') center center;" id="home"> -->
+        <div class="bg-overlay bg-over-image"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="title-heading mt-5 pt-5 pb-5 text-center mt-5">
+                        <!-- <img src="assets/images/home/hero.jpg" class="img-fluid rounded-pill" alt=""> -->
+                        <h2 class="sub-title text-light mt-3">Please Stay Home</h2>
+                        <h1 class="heading text-custom">Covid 19 Donations</h1>
+                        <p class="text-light mx-auto para-desc">Together, let's give a hand to our health personnel by providing the basic necessities such as face masks, gowns, hydro-alcohol gel etc. These resources are diminishing gradually.</p>
+                        <div class="mt-4">
+                            <a [routerLink]="['/hospitals']" class="btn btn-pill btn-custom mb-2 mr-2">Donate</a>
+                            <!-- <a href="javascript:void(0)" class="btn btn-pill btn-outline-custom mb-2 download-cv">Download CV <i class="mdi mdi-download"></i></a> -->
+                        </div>
+                        <div class="pb-5"></div>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container--> 
+        <a href="#about" data-scroll-nav="1" class="mouse-icon d-none d-md-inline-block rounded-pill bg-light mouse-down">
+            <span class="wheel position-relative d-block mover"></span>
+        </a>
+    </section><!--end section-->
+    <!-- HOME END-->
+
+    <!-- Hospitals Section -->
+    <app-hospital></app-hospital>
+
+    <!-- Counter Start -->
+    <span class="section-two">
+        <span id="counter"></span>
+    </span>
+
