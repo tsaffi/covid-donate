@@ -1,0 +1,44 @@
+    <!-- Services Start -->
+    <section class="bg-white section bg-light" id="services">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 text-center">
+                    <div class="section-title">
+                        <div class="titles">
+                            <h4 class="title text-uppercase mb-4 pb-4">Hospitals in need</h4>
+                            <span></span>
+                        </div>
+                        <p class="text-muted mx-auto para-desc mb-0">Let's help these hospitals with the resources they lack to provide a good treatment to their covid 19 patients.</p>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+
+            <div class="row" *ngIf="hospitals && hospitals.length">                    
+                <div class="col-lg-4 col-md-6 col-12 mt-4 pt-2" *ngFor="let hospital of hospitals">
+                    <div class="service-wrapper rounded position-relative text-center border p-4 pt-5 pb-5">
+<!--                         <div class="icon text-custom">
+                            <i class="mdi mdi-google-physical-web text-custom"></i>
+                        </div>
+ -->
+                        <img [src]="hospital.imageUrl" [style.width.%]="imageWidth" />
+                        <div class="content mt-3">
+                            <h4 class="title text-uppercase">{{hospital.name}}</h4>
+                            <p class="text-muted mt-3 mb-0">{{hospital.description}}</p>
+                            <p class="text-muted mt-3 mb-0 ml-0">
+                                <span class="d-inline justify-content-left">Infected Cases: <strong>{{hospital.number_infected}}</strong></span>
+                                <span class="d-inline justify-content-right">Death Cases: <strong>{{hospital.number_death}}</strong></span>
+                            </p>
+                            <div class="text-muted mt-3 mb-0 justify-content-center">
+                                <span class="text-custom">
+                                    <i class="mdi mdi-map-marker text-custom"></i>
+                                </span>&ensp;
+                                <span>{{hospital.address}}</span>
+                            </div>
+                            <div class="text-right"><a class="btn btn-sm mt-3 more-btn" [routerLink]="['/hospitals', hospital.id]">Our needs</a></div>
+                        </div>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container-->
+    </section><!--end section-->
+    <!-- Services End -->

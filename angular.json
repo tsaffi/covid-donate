@@ -21,12 +21,35 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/api"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/css/magnific-popup.css",
+              "src/css/materialdesignicons.min.css",
+              "src/css/pe-icon-7-stroke.css",
+              "src/css/colors/default.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/js/bootstrap.bundle.min.js",
+              "src/js/jquery.easing.min.js",
+              "src/js/scrollspy.min.js",
+              "src/js/owl.carousel.min.js",
+              "src/js/owl.init.js",
+              "src/js/jquery.magnific-popup.min.js",
+              "src/js/isotope.js",
+              "src/js/portfolio-filter.js",
+              "src/js/jquery.backstretch.min.js",
+              "src/js/magnific.init.js",
+              "src/js/contact.js",
+              "src/js/counter.init.js",
+              "src/js/typed.js",
+              "src/js/typed.init.js",
+              "src/js/switcher.js",
+              "src/js/app.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -85,7 +108,8 @@
             "karmaConfig": "karma.conf.js",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/api"
             ],
             "styles": [
               "src/styles.css"

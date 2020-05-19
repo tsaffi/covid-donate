@@ -1,0 +1,172 @@
+[
+	{
+		"id": 1,
+		"name": "Douala Central Hospital (Hôpital Laquintinie)",
+		"address": "Bonaberi, Douala Cameroon ",
+		"number_infected": 20,
+		"number_death": 1,
+		"number_recovered": 8,
+		"number_infected_desc": "The number keeps increasing every day",
+		"number_death_desc": "The number keeps increasing every day",
+		"number_recovered_desc": "The number keeps increasing every day",
+		"logo": "assets/images/red-cross-logo.png",
+		"imageUrl": "assets/images/hospitals/patient_3.jpg",
+		"images": ["assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/patient_10.jpg", "assets/images/hospitals/patient_11.jpg", "assets/images/hospitals/personnel_3.jpg", "assets/images/hospitals/test_2.jpg", "assets/images/hospitals/test_3.jpg", "assets/images/hospitals/test_4.jpg", "assets/images/hospitals/washing_hands_1.jpg", "assets/images/hospitals/disinfecting_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/disinfecting_2.jpg", "assets/images/hospitals/greeting_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_17.jpg", "assets/images/hospitals/patient_18.jpg", "assets/images/hospitals/personnel_3.jpg", "assets/images/hospitals/personnel_4.jpg", "assets/images/hospitals/personnel_5.jpg", "assets/images/hospitals/home_1.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/home_3.jpg","assets/images/hospitals/greeting_2.jpg",  "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/test_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/hospital_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/personnel_6.jpg", "assets/images/hospitals/patient_6.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_7.jpg", "assets/images/hospitals/personnel_10.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/test_5.jpg", "assets/images/hospitals/virus.jpg", "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/personnel_11.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_3.jpg", "assets/images/hospitals/patient_12.jpg", "assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/patient_7.jpg", "assets/images/hospitals/patient_10.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/patient_13.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/patient_15.jpg", "assets/images/hospitals/patient_16.jpg", "assets/images/hospitals/patient_1.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/hospital_12.jpg", "assets/images/hospitals/hospital_3.jpg"],
+		"description": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"about": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"needs": [
+			{
+				"item": "Protective gear (face masks, gowns etc)",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Staff",
+				"description": "Medical professional and students available can give us a hand for a compensation as payment"
+			},
+			{
+				"item": "Hydro-alcohol gel",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Face masks",
+				"description": "This is the description of the item"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Massachusetts General Hospital",
+		"address": "Boston, MA",
+		"number_infected": 20,
+		"number_death": 8,
+		"number_recovered": 8,
+		"number_infected_desc": "The number keeps increasing every day",
+		"number_death_desc": "The number keeps increasing every day",
+		"number_recovered_desc": "The number keeps increasing every day",
+		"logo": "assets/images/red-cross-logo.png",
+		"imageUrl": "assets/images/hospitals/personnel_2.jpg",
+		"images": ["assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/washing_hands_1.jpg", "assets/images/hospitals/disinfecting_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/disinfecting_2.jpg", "assets/images/hospitals/greeting_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_17.jpg", "assets/images/hospitals/patient_18.jpg", "assets/images/hospitals/personnel_3.jpg", "assets/images/hospitals/personnel_4.jpg", "assets/images/hospitals/personnel_5.jpg", "assets/images/hospitals/home_1.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/home_3.jpg","assets/images/hospitals/greeting_2.jpg",  "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/test_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/hospital_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/personnel_6.jpg", "assets/images/hospitals/patient_6.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_7.jpg", "assets/images/hospitals/personnel_10.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/test_5.jpg", "assets/images/hospitals/virus.jpg", "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/personnel_11.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_3.jpg", "assets/images/hospitals/patient_12.jpg", "assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/patient_7.jpg", "assets/images/hospitals/patient_10.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/patient_13.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/patient_15.jpg", "assets/images/hospitals/patient_16.jpg", "assets/images/hospitals/patient_1.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/hospital_12.jpg", "assets/images/hospitals/hospital_3.jpg"],
+		"description": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"about": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"needs": [
+			{
+				"item": "Protective gear (face masks, gowns etc)",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Staff",
+				"description": "Medical professional and students available can give us a hand for a compensation as payment"
+			},
+			{
+				"item": "Hydro-alcohol gel",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Face masks",
+				"description": "This is the description of the item"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "The Mount Sinai Hospital",
+		"address": "New York, NY",
+		"number_infected": 20,
+		"number_death": 15,
+		"number_recovered": 0,
+		"number_infected_desc": "The number keeps increasing every day",
+		"number_death_desc": "The number keeps increasing every day",
+		"number_recovered_desc": "The number keeps increasing every day",
+		"logo": "assets/images/red-cross-logo.png",
+		"imageUrl": "assets/images/hospitals/personnel_1.jpg",
+		"images": ["assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/washing_hands_1.jpg", "assets/images/hospitals/disinfecting_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/disinfecting_2.jpg", "assets/images/hospitals/greeting_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_17.jpg", "assets/images/hospitals/patient_18.jpg", "assets/images/hospitals/personnel_3.jpg", "assets/images/hospitals/personnel_4.jpg", "assets/images/hospitals/personnel_5.jpg", "assets/images/hospitals/home_1.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/home_3.jpg","assets/images/hospitals/greeting_2.jpg",  "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/test_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/hospital_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/personnel_6.jpg", "assets/images/hospitals/patient_6.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_7.jpg", "assets/images/hospitals/personnel_10.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/test_5.jpg", "assets/images/hospitals/virus.jpg", "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/personnel_11.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_3.jpg", "assets/images/hospitals/patient_12.jpg", "assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/patient_7.jpg", "assets/images/hospitals/patient_10.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/patient_13.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/patient_15.jpg", "assets/images/hospitals/patient_16.jpg", "assets/images/hospitals/patient_1.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/hospital_12.jpg", "assets/images/hospitals/hospital_3.jpg"],
+		"description": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"about": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"needs": [
+			{
+				"item": "Protective gear (face masks, gowns etc)",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Staff",
+				"description": "Medical professional and students available can give us a hand for a compensation as payment"
+			},
+			{
+				"item": "Hydro-alcohol gel",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Face masks",
+				"description": "This is the description of the item"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Northwestern Memorial Hospital",
+		"address": "Chicago, IL USA",
+		"number_infected": 20,
+		"number_death": 0,
+		"number_recovered": 18,
+		"number_infected_desc": "The number keeps increasing every day",
+		"number_death_desc": "The number keeps increasing every day",
+		"number_recovered_desc": "The number keeps increasing every day",
+		"logo": "assets/images/red-cross-logo.png",
+		"imageUrl": "assets/images/hospitals/hospital_6.jpg",
+		"images": ["assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/washing_hands_1.jpg", "assets/images/hospitals/disinfecting_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/disinfecting_2.jpg", "assets/images/hospitals/greeting_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_17.jpg", "assets/images/hospitals/patient_18.jpg", "assets/images/hospitals/personnel_3.jpg", "assets/images/hospitals/personnel_4.jpg", "assets/images/hospitals/personnel_5.jpg", "assets/images/hospitals/home_1.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/home_3.jpg","assets/images/hospitals/greeting_2.jpg",  "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/test_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/hospital_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/personnel_6.jpg", "assets/images/hospitals/patient_6.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_7.jpg", "assets/images/hospitals/personnel_10.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/test_5.jpg", "assets/images/hospitals/virus.jpg", "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/personnel_11.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_3.jpg", "assets/images/hospitals/patient_12.jpg", "assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/patient_7.jpg", "assets/images/hospitals/patient_10.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/patient_13.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/patient_15.jpg", "assets/images/hospitals/patient_16.jpg", "assets/images/hospitals/patient_1.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/hospital_12.jpg", "assets/images/hospitals/hospital_3.jpg"],
+		"description": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"about": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"needs": [
+			{
+				"item": "Protective gear (face masks, gowns etc)",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Staff",
+				"description": "Medical professional and students available can give us a hand for a compensation as payment"
+			},
+			{
+				"item": "Hydro-alcohol gel",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Face masks",
+				"description": "This is the description of the item"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Cleveland Clinic",
+		"address": "Cleveland, OH USA",
+		"number_infected": 20,
+		"number_death": 0,
+		"number_recovered": 8,
+		"number_infected_desc": "The number keeps increasing every day",
+		"number_death_desc": "The number keeps increasing every day",
+		"number_recovered_desc": "The number keeps increasing every day",
+		"logo": "assets/images/red-cross-logo.png",
+		"imageUrl": "assets/images/hospitals/hospital_11.jpg",
+		"images": ["assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/hospital_12.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/washing_hands_1.jpg", "assets/images/hospitals/disinfecting_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/disinfecting_2.jpg", "assets/images/hospitals/greeting_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_17.jpg", "assets/images/hospitals/patient_18.jpg", "assets/images/hospitals/personnel_3.jpg", "assets/images/hospitals/personnel_4.jpg", "assets/images/hospitals/personnel_5.jpg", "assets/images/hospitals/home_1.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/home_3.jpg","assets/images/hospitals/greeting_2.jpg",  "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/test_1.jpg", "assets/images/hospitals/patient_5.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/hospital_1.jpg", "assets/images/hospitals/masks.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/personnel_6.jpg", "assets/images/hospitals/patient_6.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_7.jpg", "assets/images/hospitals/personnel_10.jpg", "assets/images/hospitals/personnel_9.jpg", "assets/images/hospitals/test_5.jpg", "assets/images/hospitals/virus.jpg", "assets/images/hospitals/home_2.jpg", "assets/images/hospitals/personnel_8.jpg", "assets/images/hospitals/personnel_2.jpg", "assets/images/hospitals/personnel_11.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_3.jpg", "assets/images/hospitals/patient_12.jpg", "assets/images/hospitals/hospital_2.jpg", "assets/images/hospitals/hospital_5.jpg", "assets/images/hospitals/hospital_8.jpg", "assets/images/hospitals/patient_7.jpg", "assets/images/hospitals/patient_10.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_8.jpg", "assets/images/hospitals/patient_13.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/patient_15.jpg", "assets/images/hospitals/patient_16.jpg", "assets/images/hospitals/patient_1.jpg", "assets/images/hospitals/patient_3.jpg", "assets/images/hospitals/patient_4.jpg", "assets/images/hospitals/hospital_4.jpg", "assets/images/hospitals/hospital_6.jpg", "assets/images/hospitals/patient_9.jpg", "assets/images/hospitals/patient_14.jpg", "assets/images/hospitals/hospital_7.jpg", "assets/images/hospitals/hospital_9.jpg", "assets/images/hospitals/hospital_10.jpg", "assets/images/hospitals/hospital_11.jpg", "assets/images/hospitals/hospital_12.jpg", "assets/images/hospitals/hospital_3.jpg"],
+		"description": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"about": "It is a long established fact that a reader will be distracted by the when looking at its layout.",
+		"needs": [
+			{
+				"item": "Protective gear (face masks, gowns etc)",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Staff",
+				"description": "Medical professional and students available can give us a hand for a compensation as payment"
+			},
+			{
+				"item": "Hydro-alcohol gel",
+				"description": "This is the description of the item"
+			},
+			{
+				"item": "Face masks",
+				"description": "This is the description of the item"
+			}
+		]
+	}
+]
