@@ -26,7 +26,7 @@
     $(window).scroll(function() {
         var scroll = $(window).scrollTop();
 
-        if (window.location.pathname.split("/")[1] === "contact" || window.location.pathname.split("/")[1] === "hospitals"){
+        if (window.location.pathname.split("/")[1] === "contact" || window.location.pathname.split("/")[1] === "hospitals" || window.location.pathname.split("/")[1] === "about-us"){
             $(".sticky").addClass("nav-sticky");
         }else{
             if (scroll >= 20) {
